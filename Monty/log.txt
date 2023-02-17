@@ -1,0 +1,4 @@
+Stick Wins: 0
+Stick Picks: 1
+Switch Wins: 3
+Switch Picks: 3
